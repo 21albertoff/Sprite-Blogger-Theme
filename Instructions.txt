@@ -1,0 +1,46 @@
++::Installing Theme::+
+-First backup your old theme
+-Go to Theme --> Edit HTML and paste .xml theme codes
+-----------------------------------
++::Main Menu/Dropdown/Multi Dropdown::+
+* Normal Menu
+* _Menu Level 1.0
+* __Menu Level 2.0
+-----------------------------------
++::Featured Posts::+
+-Featured Post by Label: 6/yourlabel/featured
+-Featured Post by Recent: 6/recent/featured
+-Featured Post by Random: 6/random/featured
+-----------------------------------
++::Advertise Slots::+
+-Home Ads (A): Top Ads slot
+-Home Ads (B): Middle Ads slot
+-Home Ads (C): Bottom Ads slot
+----------------------------------
+-Post Ads (1): Before Post Content
+-Post Ads (2): After Post Content
+----------------------------------
++::Change Default Player Logo::+
+-Go to Theme --> Edit HTML and search for [ video_logo.jpg ]
+-Change with your URL of Logo image
+----------------------------------
++::Shortcode::+
+Add the Shortcode into Compose Mode and add Strikethrough style
+-contact-form  = Show contact form
+-full-width    = Full Post layout
+------------------------------------------------------
++::Theme Options::+
+-Facebook SDK    : (Plugin for facebook comment and facebook page)
+-Hide Post Image : true=hide, false=show (default is true)
+------------------------------------------------------
++::Default Variables::+
+-postPerPage 	= Default is 12
+-commentsSystem	: blogger, facebook, disqus or hide (default is blogger)
+-disqusShortname: Add your disqus username (default is rithiseth)
+------------------------
++::Change Theme Color::+
+Step 1: Go to Theme --> Customize --> Background
+Step 2: Select color that you want (Main Color Theme)
+Step 3: Click on Apply to Blog
+-----------------------------------------------------
+If you have any questions or having problem please contact me!

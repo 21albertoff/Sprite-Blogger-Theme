@@ -1,0 +1,18 @@
+﻿+::Playlist Options::+
+- "file" = Your Video Embed Link
+- "title" = Your Video Title
+- "image" = Your Video Custom Logo/Thumbnail
+--------------------------------------------
+<div id="videox_player"></div>
+<script type="text/javascript">
+//<![CDATA[
+getPlayerOptions.playerList = [
+{"file": "https://www.youtube.com/watch?v=8CgSfrSl1mk","title": "Youtube Video Preview"},
+{"file": "https://drive.google.com/file/d/0Bwh7cTp2lB3PRmgtODRWOENEb28/preview","title": "Google Drive Video Preview"},
+{"file": "https://www.ok.ru/videoembed/694082275842","title": "OK.ru Video Preview"},
+{"file": "https://www.facebook.com/video/embed?video_id=10153231379946729", "title": "Facebook Video Preview"},
+{"file": "https://player.vimeo.com/video/208621116","title": "Vimeo Video Preview"},
+{"file": "https://www.dailymotion.com/embed/video/x2klwro","title": "Daily Motion Video Preview"},
+];
+//]]>
+</script>
